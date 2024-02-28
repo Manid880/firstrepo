@@ -1,2 +1,3 @@
-FROM
+COPY
+ENV
 RUN
