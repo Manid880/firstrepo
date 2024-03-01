@@ -1,3 +1,2 @@
-COPY
-ENV
+EXPOSE
 RUN
