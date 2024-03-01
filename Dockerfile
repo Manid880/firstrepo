@@ -1,2 +1,4 @@
 EXPOSE
 RUN
+ARG
+CMD
